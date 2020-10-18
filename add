@@ -1,3 +1,4 @@
 def sum1(a,b):
     sum1 = a+b
-    return sum1
+    return sum1,sum1
+    
